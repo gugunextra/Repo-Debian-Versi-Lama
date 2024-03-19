@@ -1,6 +1,8 @@
 # Repo-Debian-Versi-Lama
-Silahkan edit pada bagian nano /etc/apt/sources.list
-
+Silahkan edit pada bagian 
+```
+sudo nano /etc/apt/sources.list
+```
 --------
 ## Debian 12 (Bookworm)
 
